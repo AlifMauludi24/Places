@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lokasion</string>
+    <string name="app_name">Places</string>
     <string name="add_new_location">Tambah lokasi baru</string>
     <string name="location_list">Lokasi</string>
     <string name="need_location_permission_message">Anda harus mengaktifkan izin lokasi dulu</string>
